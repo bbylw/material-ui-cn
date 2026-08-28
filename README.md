@@ -1,10 +1,12 @@
 # Material UI 中文站 🇨🇳
 
+[![Deploy to GitHub Pages](https://github.com/bbylw/material-ui-cn/actions/workflows/deploy.yml/badge.svg)](https://github.com/bbylw/material-ui-cn/actions/workflows/deploy.yml) [![Pages](https://img.shields.io/badge/Pages-material--ui.ndjp.net-141413?logo=github)](https://material-ui.ndjp.net) [![Bun](https://img.shields.io/badge/Bun-1.4-black?logo=bun)](https://bun.sh) [![MUI](https://img.shields.io/badge/MUI-9.4.0-007FFF?logo=mui)](https://mui.com)
+
 > 基于 [mui.com/material-ui](https://mui.com/material-ui/getting-started/) 官方文档的中文落地站  
 > 技术栈：**React 19 + TypeScript + Vite 8 + Bun + MUI 9.4.0 + Framer Motion 13**  
-> 风格：Editorial Editorial · 非对称 Bento · 纸质暖色系
+> 风格：Editorial · 非对称 Bento · 纸质暖色系 · 深浅色全适配
 
-在线预览：**https://material-ui.ndjp.net** · 源码：`https://github.com/bbylw/material-ui-cn`
+在线预览：**https://material-ui.ndjp.net** · 源码：`https://github.com/bbylw/material-ui-cn` · 最后部署：2026-08-28
 
 ## 特性
 
